@@ -277,10 +277,9 @@
                             <span> Forms </span>
                         </a>
                         <ul class="nav-second-level" aria-expanded="false">
-                            <li><a href="form-advanced.html">Advanced Form</a></li>
-                            <li><a href="form-validation.html">Form Validation</a></li>
-                            <li><a href="form-wizard.html">Form Wizard</a></li>
-                            <li><a href="form-fileupload.html">Form Uploads</a></li>
+                            <li><a href="form-validation.php">Form Validation</a></li>
+                            <li><a href="form-wizard.php">Form Wizard</a></li>
+                            <li><a href="form-upload.php">Form Uploads</a></li>
                         </ul>
                     </li>
 
@@ -291,7 +290,7 @@
                             <span class="menu-arrow"></span>
                         </a>
                         <ul class="nav-second-level" aria-expanded="false">
-                            <li><a href="tables-datatable.html">Data Tables</a></li>
+                            <li><a href="datatables.php">Data Tables</a></li>
                         </ul>
                     </li>
 
@@ -302,7 +301,7 @@
                             <span class="menu-arrow"></span>
                         </a>
                         <ul class="nav-second-level" aria-expanded="false">
-                            <li><a href="extras-timeline.html">Timeline</a></li>
+                            <li><a href="timeline.php">Timeline</a></li>
                         </ul>
                     </li>
 
